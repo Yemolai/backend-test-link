@@ -1,6 +1,6 @@
 # Teste Backend Developer
 
-Este teste consiste no desenvolvimento de uma API REST para autenticação de cliente com JWT.
+Este teste consiste no desenvolvimento de uma API REST para autenticação de cliente com JWT em um fork deste repositório.
 
 Desenvolva uma API REST em uma das opções abaixo:
 
