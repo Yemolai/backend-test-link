@@ -119,4 +119,3 @@ Deve ter processo de compilação para imagem Docker com documentação de porta
   - Definir migrations para criação de estrutura de banco de dados
   - Definir seed para inserção de usuário padrão admin
   - Utilizar arquitetura DDD com IoC
-  - Desenvolver em formato de microservices com docker-compose.yml
