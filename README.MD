@@ -27,7 +27,7 @@ Solicitação de qualquer outra rota deve ser respondida com código 404
 
   - Implementar política de CORS
   - Responder sempre em JSON fixo como:
-  ```json
+  ```js
   {
     "success": true/false,
     "errorMessage": "preenchida com erro apenas se success for true",
@@ -91,7 +91,7 @@ Integração com banco de dados SQL em memória ou local.
 
 Toda resposta da API deve ser no formato:
 
-```json
+```js
 {
   "success": true,
   "message": "mensagem de erro, caso exista erro",
